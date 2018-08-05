@@ -1,0 +1,4 @@
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Domain\bin\Debug\ArquiteturaDemo.Domain.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Domain\bin\Debug\ArquiteturaDemo.Domain.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Domain\obj\Debug\ArquiteturaDemo.Domain.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Domain\obj\Debug\ArquiteturaDemo.Domain.pdb

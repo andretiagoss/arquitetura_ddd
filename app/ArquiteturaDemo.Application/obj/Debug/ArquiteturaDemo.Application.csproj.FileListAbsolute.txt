@@ -1,0 +1,10 @@
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\ArquiteturaDemo.Application.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\ArquiteturaDemo.Application.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\ArquiteturaDemo.Domain.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\ArquiteturaDemo.Domain.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\obj\Debug\ArquiteturaDemo.Application.csprojResolveAssemblyReference.cache
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\obj\Debug\ArquiteturaDemo.Application.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Application\obj\Debug\ArquiteturaDemo.Application.pdb

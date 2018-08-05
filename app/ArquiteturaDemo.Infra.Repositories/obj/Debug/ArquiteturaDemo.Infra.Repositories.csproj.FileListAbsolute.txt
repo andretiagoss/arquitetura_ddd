@@ -1,0 +1,15 @@
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\ArquiteturaDemo.Infra.Repositories.dll.config
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\ArquiteturaDemo.Infra.Repositories.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\ArquiteturaDemo.Infra.Repositories.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\ArquiteturaDemo.Domain.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\EntityFramework.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\ArquiteturaDemo.Domain.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\EntityFramework.xml
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\obj\Debug\ArquiteturaDemo.Infra.Repositories.csprojResolveAssemblyReference.cache
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\obj\Debug\ArquiteturaDemo.Infra.Repositories.dll
+C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.Infra.Repositories\obj\Debug\ArquiteturaDemo.Infra.Repositories.pdb

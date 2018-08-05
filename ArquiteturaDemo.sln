@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquiteturaDemo.UI.Mvc", "app\ArquiteturaDemo.UI.Mvc\ArquiteturaDemo.UI.Mvc.csproj", "{CAA4DCE6-9853-45CA-8E5B-4C99BFE8448A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquiteturaDemo.Application", "app\ArquiteturaDemo.Application\ArquiteturaDemo.Application.csproj", "{F2649C0F-1715-4F04-92EC-01BF3649ACDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquiteturaDemo.Domain", "app\ArquiteturaDemo.Domain\ArquiteturaDemo.Domain.csproj", "{4CD960DC-7330-402A-9AAB-10451F8A12C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquiteturaDemo.Infra.Repositories", "app\ArquiteturaDemo.Infra.Repositories\ArquiteturaDemo.Infra.Repositories.csproj", "{BB02A83A-C3E7-42A2-92E0-A780B7653419}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{8469AB90-7E6C-45EA-88CD-09DD05DCF371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{02C0CFA5-91EF-4ECE-9EFD-81AC83EE4D23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{DF40DE22-2C8E-46EB-BA3E-4F87DC70D55C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{250C13A4-FB32-43D0-88B9-634D8CBA2D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquiteturaDemo.Infra.IoC", "app\ArquiteturaDemo.Infra.IoC\ArquiteturaDemo.Infra.IoC.csproj", "{F2AB0952-A620-4999-8845-F32F5D46C385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA4DCE6-9853-45CA-8E5B-4C99BFE8448A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA4DCE6-9853-45CA-8E5B-4C99BFE8448A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA4DCE6-9853-45CA-8E5B-4C99BFE8448A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA4DCE6-9853-45CA-8E5B-4C99BFE8448A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2649C0F-1715-4F04-92EC-01BF3649ACDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2649C0F-1715-4F04-92EC-01BF3649ACDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2649C0F-1715-4F04-92EC-01BF3649ACDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2649C0F-1715-4F04-92EC-01BF3649ACDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD960DC-7330-402A-9AAB-10451F8A12C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD960DC-7330-402A-9AAB-10451F8A12C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD960DC-7330-402A-9AAB-10451F8A12C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD960DC-7330-402A-9AAB-10451F8A12C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB02A83A-C3E7-42A2-92E0-A780B7653419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB02A83A-C3E7-42A2-92E0-A780B7653419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB02A83A-C3E7-42A2-92E0-A780B7653419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB02A83A-C3E7-42A2-92E0-A780B7653419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AB0952-A620-4999-8845-F32F5D46C385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AB0952-A620-4999-8845-F32F5D46C385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AB0952-A620-4999-8845-F32F5D46C385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AB0952-A620-4999-8845-F32F5D46C385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAA4DCE6-9853-45CA-8E5B-4C99BFE8448A} = {8469AB90-7E6C-45EA-88CD-09DD05DCF371}
+		{F2649C0F-1715-4F04-92EC-01BF3649ACDC} = {02C0CFA5-91EF-4ECE-9EFD-81AC83EE4D23}
+		{4CD960DC-7330-402A-9AAB-10451F8A12C0} = {DF40DE22-2C8E-46EB-BA3E-4F87DC70D55C}
+		{BB02A83A-C3E7-42A2-92E0-A780B7653419} = {250C13A4-FB32-43D0-88B9-634D8CBA2D11}
+		{F2AB0952-A620-4999-8845-F32F5D46C385} = {250C13A4-FB32-43D0-88B9-634D8CBA2D11}
+	EndGlobalSection
+EndGlobal
