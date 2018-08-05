@@ -22,7 +22,6 @@ C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\Entity
 C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\Microsoft.Web.Infrastructure.dll
 C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\Newtonsoft.Json.dll
-C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\Owin.dll
 C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\System.Web.Helpers.dll
 C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\System.Web.Mvc.dll
 C:\Projetos\ArquiteturaDDD\ArquiteturaDemo\app\ArquiteturaDemo.UI.Mvc\bin\System.Web.Optimization.dll
